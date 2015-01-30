@@ -27,7 +27,7 @@
 #ifndef __RULES_STD_H__
 #define __RULES_STD_H__
 
-#include <pokereval_export.h>
+#include "pokereval_export.h"
 
 #define StdRules_HandType_NOPAIR    0
 #define StdRules_HandType_ONEPAIR   1
